@@ -29,6 +29,7 @@
       },
       {
         "id": 3,
+        "popular": true,
         "name": "Premium Plan",
         "price": 70,
         "duration": "month",
